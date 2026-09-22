@@ -152,9 +152,6 @@ def best_parameters(learning_rates, momentums, Training_Loops, X_train, Y_train,
                     
                 print(f"Training loop: {TL}, best Validation RMSE: {best_val_rmse}, best Test RMSE: {best_test_rmse}")
 
-Learning_rate = 0.05
-Momentum = 0.7 
-Training_Loop = 4300
 
 Input_Layer = Layer(9, 10) 
 Hidden_Layer_1 = Layer(10, 12) 
