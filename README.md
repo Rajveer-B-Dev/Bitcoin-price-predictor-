@@ -1,2 +1,2 @@
 # Bitcoin-price-predictor-
-Crypto currency bitcoin price predictor 
+Cryptocurrency bitcoin price predictor 
